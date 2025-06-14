@@ -39,7 +39,7 @@ Este site foi desenvolvido com o objetivo de **divulgar e impulsionar o evento F
 - Alex da Silva Muniz (Gerente)
 
 ## GitHub ID:
-- luizdo085
+- luiz-lb
 - tolentinomd
 - vr-ouroboros
 - AlescMuniz 
